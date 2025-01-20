@@ -1,0 +1,28 @@
+{
+    "checksum": "dde5c6fd22f2c0dc067d4eede6a1909a",
+    "wallpaper": "/home/mamat/Pictures/Wallpapers/122343566_p0.png",
+    "alpha": "100",
+    "special": {
+        "background": "#131318",
+        "foreground": "#c4c4c5",
+        "cursor": "#c4c4c5"
+    },
+    "colors": {
+        "color0": "#131318",
+        "color1": "#DDB1A7",
+        "color2": "#E0C5AC",
+        "color3": "#F4C3B2",
+        "color4": "#BCB8C2",
+        "color5": "#AC82F1",
+        "color6": "#D3BEC1",
+        "color7": "#c4c4c5",
+        "color8": "#5c5c70",
+        "color9": "#DDB1A7",
+        "color10": "#E0C5AC",
+        "color11": "#F4C3B2",
+        "color12": "#BCB8C2",
+        "color13": "#AC82F1",
+        "color14": "#D3BEC1",
+        "color15": "#c4c4c5"
+    }
+}

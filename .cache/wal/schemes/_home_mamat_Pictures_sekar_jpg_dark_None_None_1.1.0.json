@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mamat/Pictures/sekar.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#111112",
+        "foreground": "#e6e4dc",
+        "cursor": "#e6e4dc"
+    },
+    "colors": {
+        "color0": "#111112",
+        "color1": "#9C887A",
+        "color2": "#7B7884",
+        "color3": "#938A8B",
+        "color4": "#AEA19A",
+        "color5": "#C8B6A6",
+        "color6": "#DFCEB6",
+        "color7": "#e6e4dc",
+        "color8": "#a19f9a",
+        "color9": "#9C887A",
+        "color10": "#7B7884",
+        "color11": "#938A8B",
+        "color12": "#AEA19A",
+        "color13": "#C8B6A6",
+        "color14": "#DFCEB6",
+        "color15": "#e6e4dc"
+    }
+}

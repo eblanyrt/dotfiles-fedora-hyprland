@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mamat/Pictures/patreon.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#121010",
+        "foreground": "#f5e9e4",
+        "cursor": "#f5e9e4"
+    },
+    "colors": {
+        "color0": "#121010",
+        "color1": "#B18F74",
+        "color2": "#8A798C",
+        "color3": "#A49BA1",
+        "color4": "#D7BBB6",
+        "color5": "#C7CDDD",
+        "color6": "#F5D4CA",
+        "color7": "#f5e9e4",
+        "color8": "#aba39f",
+        "color9": "#B18F74",
+        "color10": "#8A798C",
+        "color11": "#A49BA1",
+        "color12": "#D7BBB6",
+        "color13": "#C7CDDD",
+        "color14": "#F5D4CA",
+        "color15": "#f5e9e4"
+    }
+}

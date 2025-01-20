@@ -1,0 +1,28 @@
+{
+    "checksum": "efbbf9096f322e79781d199fa39982e1",
+    "wallpaper": "/home/mamat/Pictures/Wallpapers/mary_bunny.png",
+    "alpha": "100",
+    "special": {
+        "background": "#282424",
+        "foreground": "#c9c8c8",
+        "cursor": "#c9c8c8"
+    },
+    "colors": {
+        "color0": "#282424",
+        "color1": "#AEC6BA",
+        "color2": "#ECC4BB",
+        "color3": "#A2B5CC",
+        "color4": "#B3D0CD",
+        "color5": "#CDD3CF",
+        "color6": "#F1D3CD",
+        "color7": "#c9c8c8",
+        "color8": "#7c6666",
+        "color9": "#AEC6BA",
+        "color10": "#ECC4BB",
+        "color11": "#A2B5CC",
+        "color12": "#B3D0CD",
+        "color13": "#CDD3CF",
+        "color14": "#F1D3CD",
+        "color15": "#c9c8c8"
+    }
+}

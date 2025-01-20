@@ -1,0 +1,21 @@
+set $wallpaper /home/mamat/Pictures/Wallpapers/hyprchan.png
+
+set $background #101010
+set $foreground #c3c3c3
+
+set $color0 #101010
+set $color1 #566BAE
+set $color2 #49A4C1
+set $color3 #C6B3BE
+set $color4 #AAE5D4
+set $color5 #FCD4CC
+set $color6 #CFCEF1
+set $color7 #c3c3c3
+set $color8 #6c5959
+set $color9 #566BAE
+set $color10 #49A4C1
+set $color11 #C6B3BE
+set $color12 #AAE5D4
+set $color13 #FCD4CC
+set $color14 #CFCEF1
+set $color15 #c3c3c3

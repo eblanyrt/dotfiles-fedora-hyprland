@@ -1,0 +1,28 @@
+{
+    "checksum": "8d39bf2ce7377785f9a505d0f5457591",
+    "wallpaper": "/home/mamat/Pictures/Wallpapers/doro_redhood.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0d18",
+        "foreground": "#c2c2c5",
+        "cursor": "#c2c2c5"
+    },
+    "colors": {
+        "color0": "#0c0d18",
+        "color1": "#976468",
+        "color2": "#D0996E",
+        "color3": "#6A6693",
+        "color4": "#987290",
+        "color5": "#CB748B",
+        "color6": "#7886AA",
+        "color7": "#c2c2c5",
+        "color8": "#5a5a6e",
+        "color9": "#976468",
+        "color10": "#D0996E",
+        "color11": "#6A6693",
+        "color12": "#987290",
+        "color13": "#CB748B",
+        "color14": "#7886AA",
+        "color15": "#c2c2c5"
+    }
+}

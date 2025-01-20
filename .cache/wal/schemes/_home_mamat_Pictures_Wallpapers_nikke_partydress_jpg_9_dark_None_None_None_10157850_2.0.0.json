@@ -1,0 +1,28 @@
+{
+    "checksum": "30c5157a901dea1181cfa7a686475549",
+    "wallpaper": "/home/mamat/Pictures/Wallpapers/nikke_partydress.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1a1616",
+        "foreground": "#c5c4c4",
+        "cursor": "#c5c4c4"
+    },
+    "colors": {
+        "color0": "#1a1616",
+        "color1": "#656F8E",
+        "color2": "#898297",
+        "color3": "#A79B99",
+        "color4": "#D5AC9F",
+        "color5": "#E5CDAF",
+        "color6": "#B2BFD1",
+        "color7": "#c5c4c4",
+        "color8": "#725e5e",
+        "color9": "#656F8E",
+        "color10": "#898297",
+        "color11": "#A79B99",
+        "color12": "#D5AC9F",
+        "color13": "#E5CDAF",
+        "color14": "#B2BFD1",
+        "color15": "#c5c4c4"
+    }
+}

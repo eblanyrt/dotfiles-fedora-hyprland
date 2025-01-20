@@ -1,0 +1,28 @@
+{
+    "checksum": "c7ae3162cb964f3a6385b192c25838fc",
+    "wallpaper": "/home/mamat/Pictures/Wallpapers/beato_eva.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#150e12",
+        "foreground": "#c4c2c3",
+        "cursor": "#c4c2c3"
+    },
+    "colors": {
+        "color0": "#150e12",
+        "color1": "#93583F",
+        "color2": "#936566",
+        "color3": "#AB936E",
+        "color4": "#6D6F8F",
+        "color5": "#9F748B",
+        "color6": "#A8A19C",
+        "color7": "#c4c2c3",
+        "color8": "#6e5a63",
+        "color9": "#93583F",
+        "color10": "#936566",
+        "color11": "#AB936E",
+        "color12": "#6D6F8F",
+        "color13": "#9F748B",
+        "color14": "#A8A19C",
+        "color15": "#c4c2c3"
+    }
+}

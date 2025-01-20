@@ -1,0 +1,28 @@
+{
+    "checksum": "321125ac8a9f673faaa38556a4252900",
+    "wallpaper": "/home/mamat/Pictures/Wallpapers/scarlet_panjang.png",
+    "alpha": "100",
+    "special": {
+        "background": "#010101",
+        "foreground": "#bfbfbf",
+        "cursor": "#bfbfbf"
+    },
+    "colors": {
+        "color0": "#010101",
+        "color1": "#8E97AF",
+        "color2": "#9D9CA0",
+        "color3": "#CBA090",
+        "color4": "#D6C8B9",
+        "color5": "#ADB4C9",
+        "color6": "#CDCED4",
+        "color7": "#bfbfbf",
+        "color8": "#615050",
+        "color9": "#8E97AF",
+        "color10": "#9D9CA0",
+        "color11": "#CBA090",
+        "color12": "#D6C8B9",
+        "color13": "#ADB4C9",
+        "color14": "#CDCED4",
+        "color15": "#bfbfbf"
+    }
+}

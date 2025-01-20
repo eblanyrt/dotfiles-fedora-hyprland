@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mamat/Pictures/yuri_minimalist_3.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0D0B0E",
+        "foreground": "#eae2e0",
+        "cursor": "#eae2e0"
+    },
+    "colors": {
+        "color0": "#0D0B0E",
+        "color1": "#AD99A6",
+        "color2": "#CFB8A6",
+        "color3": "#FEC09C",
+        "color4": "#D7CBBB",
+        "color5": "#FDD3B9",
+        "color6": "#C6B6CE",
+        "color7": "#eae2e0",
+        "color8": "#a39e9c",
+        "color9": "#AD99A6",
+        "color10": "#CFB8A6",
+        "color11": "#FEC09C",
+        "color12": "#D7CBBB",
+        "color13": "#FDD3B9",
+        "color14": "#C6B6CE",
+        "color15": "#eae2e0"
+    }
+}

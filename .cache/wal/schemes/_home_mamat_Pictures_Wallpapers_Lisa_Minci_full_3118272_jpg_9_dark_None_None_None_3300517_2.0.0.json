@@ -1,0 +1,28 @@
+{
+    "checksum": "07f702b5629a47d9a2996dbcc17a554d",
+    "wallpaper": "/home/mamat/Pictures/Wallpapers/Lisa.Minci.full.3118272.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1a0f17",
+        "foreground": "#c5c3c5",
+        "cursor": "#c5c3c5"
+    },
+    "colors": {
+        "color0": "#1a0f17",
+        "color1": "#905052",
+        "color2": "#A2665F",
+        "color3": "#D19076",
+        "color4": "#6A5899",
+        "color5": "#9470A3",
+        "color6": "#E1AA9C",
+        "color7": "#c5c3c5",
+        "color8": "#705c6a",
+        "color9": "#905052",
+        "color10": "#A2665F",
+        "color11": "#D19076",
+        "color12": "#6A5899",
+        "color13": "#9470A3",
+        "color14": "#E1AA9C",
+        "color15": "#c5c3c5"
+    }
+}

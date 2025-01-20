@@ -1,0 +1,28 @@
+{
+    "checksum": "977ad34030bb4a85b48bcd9dcce1b5ac",
+    "wallpaper": "/home/mamat/Pictures/Wallpapers/viper_bunny.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#3c2d2f",
+        "foreground": "#cecacb",
+        "cursor": "#cecacb"
+    },
+    "colors": {
+        "color0": "#3c2d2f",
+        "color1": "#CFB0AA",
+        "color2": "#E5B5AC",
+        "color3": "#EAC5BB",
+        "color4": "#C5B5CB",
+        "color5": "#DBD1D4",
+        "color6": "#F1D4CB",
+        "color7": "#cecacb",
+        "color8": "#876e71",
+        "color9": "#CFB0AA",
+        "color10": "#E5B5AC",
+        "color11": "#EAC5BB",
+        "color12": "#C5B5CB",
+        "color13": "#DBD1D4",
+        "color14": "#F1D4CB",
+        "color15": "#cecacb"
+    }
+}

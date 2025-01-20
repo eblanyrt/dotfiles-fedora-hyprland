@@ -1,0 +1,28 @@
+{
+    "checksum": "a6360477f6cf4eb2667952a9ff2425a7",
+    "wallpaper": "/home/mamat/Pictures/Wallpapers/layla_blue.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0f1b",
+        "foreground": "#c2c3c6",
+        "cursor": "#c2c3c6"
+    },
+    "colors": {
+        "color0": "#0b0f1b",
+        "color1": "#585965",
+        "color2": "#9A776C",
+        "color3": "#325D95",
+        "color4": "#506E94",
+        "color5": "#658DAE",
+        "color6": "#64A5D2",
+        "color7": "#c2c3c6",
+        "color8": "#5a606f",
+        "color9": "#585965",
+        "color10": "#9A776C",
+        "color11": "#325D95",
+        "color12": "#506E94",
+        "color13": "#658DAE",
+        "color14": "#64A5D2",
+        "color15": "#c2c3c6"
+    }
+}

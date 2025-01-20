@@ -1,0 +1,28 @@
+{
+    "checksum": "a436809afc15be052f2529779d815a3d",
+    "wallpaper": "/home/mamat/Pictures/Wallpapers/red_hood_gun.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#141012",
+        "foreground": "#c4c3c3",
+        "cursor": "#c4c3c3"
+    },
+    "colors": {
+        "color0": "#141012",
+        "color1": "#B2837D",
+        "color2": "#8C7C85",
+        "color3": "#D3768F",
+        "color4": "#B6A3A4",
+        "color5": "#D59E98",
+        "color6": "#E6B6B0",
+        "color7": "#c4c3c3",
+        "color8": "#6e5a61",
+        "color9": "#B2837D",
+        "color10": "#8C7C85",
+        "color11": "#D3768F",
+        "color12": "#B6A3A4",
+        "color13": "#D59E98",
+        "color14": "#E6B6B0",
+        "color15": "#c4c3c3"
+    }
+}

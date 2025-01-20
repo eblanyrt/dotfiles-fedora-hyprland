@@ -1,0 +1,28 @@
+{
+    "checksum": "f11e489feef62c0283425472a61828d5",
+    "wallpaper": "/home/mamat/Pictures/Wallpapers/mavuika_black.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0a050b",
+        "foreground": "#c1c0c2",
+        "cursor": "#c1c0c2"
+    },
+    "colors": {
+        "color0": "#0a050b",
+        "color1": "#A34C2F",
+        "color2": "#EB6123",
+        "color3": "#AB6350",
+        "color4": "#ECAB4E",
+        "color5": "#EEA25A",
+        "color6": "#9E7882",
+        "color7": "#c1c0c2",
+        "color8": "#625467",
+        "color9": "#A34C2F",
+        "color10": "#EB6123",
+        "color11": "#AB6350",
+        "color12": "#ECAB4E",
+        "color13": "#EEA25A",
+        "color14": "#9E7882",
+        "color15": "#c1c0c2"
+    }
+}

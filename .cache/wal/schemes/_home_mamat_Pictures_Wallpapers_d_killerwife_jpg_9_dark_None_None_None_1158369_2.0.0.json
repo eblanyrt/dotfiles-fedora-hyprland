@@ -1,0 +1,28 @@
+{
+    "checksum": "57a73ea1aff76db466ffd17968698b05",
+    "wallpaper": "/home/mamat/Pictures/Wallpapers/d_killerwife.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0909",
+        "foreground": "#c1c1c1",
+        "cursor": "#c1c1c1"
+    },
+    "colors": {
+        "color0": "#0A0909",
+        "color1": "#524C4B",
+        "color2": "#695751",
+        "color3": "#726763",
+        "color4": "#935238",
+        "color5": "#8E7161",
+        "color6": "#AA8C72",
+        "color7": "#c1c1c1",
+        "color8": "#685555",
+        "color9": "#524C4B",
+        "color10": "#695751",
+        "color11": "#726763",
+        "color12": "#935238",
+        "color13": "#8E7161",
+        "color14": "#AA8C72",
+        "color15": "#c1c1c1"
+    }
+}

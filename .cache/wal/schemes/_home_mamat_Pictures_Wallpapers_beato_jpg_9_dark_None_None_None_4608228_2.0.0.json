@@ -1,0 +1,28 @@
+{
+    "checksum": "9473a3915150b07eb18a8384af6956a4",
+    "wallpaper": "/home/mamat/Pictures/Wallpapers/beato.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0d12",
+        "foreground": "#c2c2c3",
+        "cursor": "#c2c2c3"
+    },
+    "colors": {
+        "color0": "#0d0d12",
+        "color1": "#416792",
+        "color2": "#509BAF",
+        "color3": "#68E7F9",
+        "color4": "#C3ACAD",
+        "color5": "#A2EEF7",
+        "color6": "#EBDFD5",
+        "color7": "#c2c2c3",
+        "color8": "#58586c",
+        "color9": "#416792",
+        "color10": "#509BAF",
+        "color11": "#68E7F9",
+        "color12": "#C3ACAD",
+        "color13": "#A2EEF7",
+        "color14": "#EBDFD5",
+        "color15": "#c2c2c3"
+    }
+}

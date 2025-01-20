@@ -1,0 +1,28 @@
+{
+    "checksum": "c7d026dbdbf776ba4b94b553843a64d3",
+    "wallpaper": "/home/mamat/Pictures/Wallpapers/maiden_guillotine_winter.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1a1416",
+        "foreground": "#c5c4c4",
+        "cursor": "#c5c4c4"
+    },
+    "colors": {
+        "color0": "#1a1416",
+        "color1": "#40549F",
+        "color2": "#56639D",
+        "color3": "#957284",
+        "color4": "#619BD0",
+        "color5": "#A5AFBC",
+        "color6": "#DCAE94",
+        "color7": "#c5c4c4",
+        "color8": "#725d62",
+        "color9": "#40549F",
+        "color10": "#56639D",
+        "color11": "#957284",
+        "color12": "#619BD0",
+        "color13": "#A5AFBC",
+        "color14": "#DCAE94",
+        "color15": "#c5c4c4"
+    }
+}

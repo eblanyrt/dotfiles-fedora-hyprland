@@ -1,0 +1,28 @@
+{
+    "checksum": "1b344b5ed1bbe5a7c65f7ad12d72e2e6",
+    "wallpaper": "/home/mamat/Pictures/Wallpapers/koyanskaya.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c1816",
+        "foreground": "#c2c5c4",
+        "cursor": "#c2c5c4"
+    },
+    "colors": {
+        "color0": "#0c1816",
+        "color1": "#69758A",
+        "color2": "#A26B95",
+        "color3": "#C96CA4",
+        "color4": "#72898D",
+        "color5": "#9B8BA0",
+        "color6": "#D98EB5",
+        "color7": "#c2c5c4",
+        "color8": "#5a6e6b",
+        "color9": "#69758A",
+        "color10": "#A26B95",
+        "color11": "#C96CA4",
+        "color12": "#72898D",
+        "color13": "#9B8BA0",
+        "color14": "#D98EB5",
+        "color15": "#c2c5c4"
+    }
+}

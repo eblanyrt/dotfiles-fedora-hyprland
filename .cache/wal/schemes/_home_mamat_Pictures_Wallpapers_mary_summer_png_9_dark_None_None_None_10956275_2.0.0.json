@@ -1,0 +1,28 @@
+{
+    "checksum": "86048bce32aafe3f459382f89305d384",
+    "wallpaper": "/home/mamat/Pictures/Wallpapers/mary_summer.png",
+    "alpha": "100",
+    "special": {
+        "background": "#321b11",
+        "foreground": "#cbc6c3",
+        "cursor": "#cbc6c3"
+    },
+    "colors": {
+        "color0": "#321b11",
+        "color1": "#D5A462",
+        "color2": "#F8E465",
+        "color3": "#3E5C9C",
+        "color4": "#B2A49E",
+        "color5": "#D8B394",
+        "color6": "#F4DAA4",
+        "color7": "#cbc6c3",
+        "color8": "#796963",
+        "color9": "#D5A462",
+        "color10": "#F8E465",
+        "color11": "#3E5C9C",
+        "color12": "#B2A49E",
+        "color13": "#D8B394",
+        "color14": "#F4DAA4",
+        "color15": "#cbc6c3"
+    }
+}

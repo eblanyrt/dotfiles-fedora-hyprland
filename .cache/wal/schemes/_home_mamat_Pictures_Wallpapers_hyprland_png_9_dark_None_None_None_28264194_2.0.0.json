@@ -1,0 +1,28 @@
+{
+    "checksum": "ee5582e678faff7d5e0964f6f3029d30",
+    "wallpaper": "/home/mamat/Pictures/Wallpapers/hyprland.png",
+    "alpha": "100",
+    "special": {
+        "background": "#050512",
+        "foreground": "#c0c0c3",
+        "cursor": "#c0c0c3"
+    },
+    "colors": {
+        "color0": "#050512",
+        "color1": "#2A519E",
+        "color2": "#585EA0",
+        "color3": "#3A6BCE",
+        "color4": "#A66D88",
+        "color5": "#2A9FE8",
+        "color6": "#5E9BE1",
+        "color7": "#c0c0c3",
+        "color8": "#565669",
+        "color9": "#2A519E",
+        "color10": "#585EA0",
+        "color11": "#3A6BCE",
+        "color12": "#A66D88",
+        "color13": "#2A9FE8",
+        "color14": "#5E9BE1",
+        "color15": "#c0c0c3"
+    }
+}

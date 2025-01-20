@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mamat/Pictures/120220116_p0.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#171920",
+        "foreground": "#e3e4e7",
+        "cursor": "#e3e4e7"
+    },
+    "colors": {
+        "color0": "#171920",
+        "color1": "#8C789B",
+        "color2": "#7488B4",
+        "color3": "#A19AA1",
+        "color4": "#C9B6A7",
+        "color5": "#B7BCC2",
+        "color6": "#B7CCE5",
+        "color7": "#e3e4e7",
+        "color8": "#9e9fa1",
+        "color9": "#8C789B",
+        "color10": "#7488B4",
+        "color11": "#A19AA1",
+        "color12": "#C9B6A7",
+        "color13": "#B7BCC2",
+        "color14": "#B7CCE5",
+        "color15": "#e3e4e7"
+    }
+}

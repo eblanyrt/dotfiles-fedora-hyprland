@@ -1,0 +1,28 @@
+{
+    "checksum": "d6454535b72d5c92f8bd18f450b88505",
+    "wallpaper": "/home/mamat/Pictures/Wallpapers/redhood_dress.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F0D0F",
+        "foreground": "#c3c2c3",
+        "cursor": "#c3c2c3"
+    },
+    "colors": {
+        "color0": "#0F0D0F",
+        "color1": "#4A78D3",
+        "color2": "#AC7C82",
+        "color3": "#7A8596",
+        "color4": "#9B9EA9",
+        "color5": "#D0A1A3",
+        "color6": "#ACB9C5",
+        "color7": "#c3c2c3",
+        "color8": "#6b586b",
+        "color9": "#4A78D3",
+        "color10": "#AC7C82",
+        "color11": "#7A8596",
+        "color12": "#9B9EA9",
+        "color13": "#D0A1A3",
+        "color14": "#ACB9C5",
+        "color15": "#c3c2c3"
+    }
+}

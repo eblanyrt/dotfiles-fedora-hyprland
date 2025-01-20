@@ -1,0 +1,28 @@
+{
+    "checksum": "b6cdf0eb4d9e8b0c7a46ba34f57308e2",
+    "wallpaper": "/home/mamat/Pictures/Wallpapers/viper_rupee.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#181815",
+        "foreground": "#c5c5c4",
+        "cursor": "#c5c5c4"
+    },
+    "colors": {
+        "color0": "#181815",
+        "color1": "#926C65",
+        "color2": "#B2936E",
+        "color3": "#A7728C",
+        "color4": "#6B8490",
+        "color5": "#A29D9A",
+        "color6": "#D5BCB1",
+        "color7": "#c5c5c4",
+        "color8": "#71715c",
+        "color9": "#926C65",
+        "color10": "#B2936E",
+        "color11": "#A7728C",
+        "color12": "#6B8490",
+        "color13": "#A29D9A",
+        "color14": "#D5BCB1",
+        "color15": "#c5c5c4"
+    }
+}

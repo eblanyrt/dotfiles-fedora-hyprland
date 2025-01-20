@@ -1,0 +1,70 @@
+
+/*                                          */
+/*    $$\      $$\            $$$$$$\  $$\  */
+/*    $$ | $\  $$ |          $$  __$$\ \__| */
+/*    $$ |$$$\ $$ | $$$$$$\  $$ /  \__|$$\  */
+/*    $$ $$ $$\$$ |$$  __$$\ $$$$\     $$ | */
+/*    $$$$  _$$$$ |$$ /  $$ |$$  _|    $$ | */
+/*    $$$  / \$$$ |$$ |  $$ |$$ |      $$ | */
+/*    $$  /   \$$ |\$$$$$$  |$$ |      $$ | */
+/*    \__/     \__| \______/ \__|      \__| */
+/*                                          */
+/*    by Eblanyrt (2025)                    */
+/*                                          */
+
+@import url("/home/mamat/.config/waybar/colors-waybar.css");
+
+#window {
+  border-radius: 14px;
+  background: linear-gradient(15deg, @color1, @color2);
+}
+
+#input {
+  padding: 2px;
+  border-radius: 15px 15px 0 0;
+  font-size: 16px;
+  background: linear-gradient(15deg, @color1, @color2);
+  border: none;
+  color: @background;
+}
+
+#input:focus {
+  box-shadow: none;
+}
+
+#scroll {
+  border-radius: 14px;
+  background-color: @background;
+ /* margin: 0 12px 12px;*/
+  margin: 6px;
+}
+
+#inner-box {
+  border-radius: 14px;
+  padding: 12px;
+}
+
+#entry {
+  padding: 8px;
+}
+
+#entry:selected {
+  border-radius: 8px;
+  background-color: @color2;
+  color: @background;
+}
+
+#entry image {
+  margin-right: 8px;
+  background-color: @background;
+}
+
+#entry image:selected {
+  margin-right: 8px;
+  background-color: @color2; /* Make it the same background-color as in #entry:selected */
+}
+
+#text:selected {
+  background-color: @color2; /* Make it the same background-color as in #entry:selected */
+  color: @background; /* Make it the same color as in #entry:selected */
+}

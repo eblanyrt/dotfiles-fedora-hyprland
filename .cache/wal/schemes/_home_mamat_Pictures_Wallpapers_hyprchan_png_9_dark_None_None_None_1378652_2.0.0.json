@@ -1,0 +1,28 @@
+{
+    "checksum": "9457afe3fec3381377a79dc71a9eb24d",
+    "wallpaper": "/home/mamat/Pictures/Wallpapers/hyprchan.png",
+    "alpha": "100",
+    "special": {
+        "background": "#101010",
+        "foreground": "#c3c3c3",
+        "cursor": "#c3c3c3"
+    },
+    "colors": {
+        "color0": "#101010",
+        "color1": "#566BAE",
+        "color2": "#49A4C1",
+        "color3": "#C6B3BE",
+        "color4": "#AAE5D4",
+        "color5": "#FCD4CC",
+        "color6": "#CFCEF1",
+        "color7": "#c3c3c3",
+        "color8": "#6c5959",
+        "color9": "#566BAE",
+        "color10": "#49A4C1",
+        "color11": "#C6B3BE",
+        "color12": "#AAE5D4",
+        "color13": "#FCD4CC",
+        "color14": "#CFCEF1",
+        "color15": "#c3c3c3"
+    }
+}

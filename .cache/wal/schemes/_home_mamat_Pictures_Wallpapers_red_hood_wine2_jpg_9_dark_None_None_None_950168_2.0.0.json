@@ -1,0 +1,28 @@
+{
+    "checksum": "7c29c3429a6bfaa4a934227744779ac6",
+    "wallpaper": "/home/mamat/Pictures/Wallpapers/red_hood_wine2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#150b0a",
+        "foreground": "#c4c2c1",
+        "cursor": "#c4c2c1"
+    },
+    "colors": {
+        "color0": "#150b0a",
+        "color1": "#D53B38",
+        "color2": "#926A60",
+        "color3": "#B88878",
+        "color4": "#997C84",
+        "color5": "#A8A1A0",
+        "color6": "#DCA799",
+        "color7": "#c4c2c1",
+        "color8": "#6c5b58",
+        "color9": "#D53B38",
+        "color10": "#926A60",
+        "color11": "#B88878",
+        "color12": "#997C84",
+        "color13": "#A8A1A0",
+        "color14": "#DCA799",
+        "color15": "#c4c2c1"
+    }
+}

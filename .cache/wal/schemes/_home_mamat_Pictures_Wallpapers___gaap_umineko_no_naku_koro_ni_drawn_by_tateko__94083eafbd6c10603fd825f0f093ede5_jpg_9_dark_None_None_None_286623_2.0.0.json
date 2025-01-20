@@ -1,0 +1,28 @@
+{
+    "checksum": "94083eafbd6c10603fd825f0f093ede5",
+    "wallpaper": "/home/mamat/Pictures/Wallpapers/__gaap_umineko_no_naku_koro_ni_drawn_by_tateko__94083eafbd6c10603fd825f0f093ede5.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0f0f",
+        "foreground": "#c2c3c3",
+        "cursor": "#c2c3c3"
+    },
+    "colors": {
+        "color0": "#0e0f0f",
+        "color1": "#828D9A",
+        "color2": "#AAA290",
+        "color3": "#B5B6A7",
+        "color4": "#BFC1B3",
+        "color5": "#DCD6AE",
+        "color6": "#D5B3C9",
+        "color7": "#c2c3c3",
+        "color8": "#586c6c",
+        "color9": "#828D9A",
+        "color10": "#AAA290",
+        "color11": "#B5B6A7",
+        "color12": "#BFC1B3",
+        "color13": "#DCD6AE",
+        "color14": "#D5B3C9",
+        "color15": "#c2c3c3"
+    }
+}

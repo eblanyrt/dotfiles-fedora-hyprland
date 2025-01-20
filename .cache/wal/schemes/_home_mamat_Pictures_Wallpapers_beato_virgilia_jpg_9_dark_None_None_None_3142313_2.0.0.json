@@ -1,0 +1,28 @@
+{
+    "checksum": "b8f51e752574476695579653ddb049e3",
+    "wallpaper": "/home/mamat/Pictures/Wallpapers/beato_virgilia.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B1930",
+        "foreground": "#c2c5cb",
+        "cursor": "#c2c5cb"
+    },
+    "colors": {
+        "color0": "#0B1930",
+        "color1": "#256494",
+        "color2": "#1371AC",
+        "color3": "#4A719D",
+        "color4": "#877B80",
+        "color5": "#2187BA",
+        "color6": "#289ECE",
+        "color7": "#c2c5cb",
+        "color8": "#616976",
+        "color9": "#256494",
+        "color10": "#1371AC",
+        "color11": "#4A719D",
+        "color12": "#877B80",
+        "color13": "#2187BA",
+        "color14": "#289ECE",
+        "color15": "#c2c5cb"
+    }
+}

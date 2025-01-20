@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/mamat/Pictures/Wallpapers/hyprchan.png"
+let background = "#101010"
+let foreground = "#c3c3c3"
+let cursor     = "#c3c3c3"
+
+" Colors
+let color0  = "#101010"
+let color1  = "#566BAE"
+let color2  = "#49A4C1"
+let color3  = "#C6B3BE"
+let color4  = "#AAE5D4"
+let color5  = "#FCD4CC"
+let color6  = "#CFCEF1"
+let color7  = "#c3c3c3"
+let color8  = "#6c5959"
+let color9  = "#566BAE"
+let color10 = "#49A4C1"
+let color11 = "#C6B3BE"
+let color12 = "#AAE5D4"
+let color13 = "#FCD4CC"
+let color14 = "#CFCEF1"
+let color15 = "#c3c3c3"

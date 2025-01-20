@@ -1,0 +1,28 @@
+{
+    "checksum": "26f8f1f8a93af2cfd678a905fe2ea91d",
+    "wallpaper": "/home/mamat/Pictures/Wallpapers/ningguang_smoke.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1a1310",
+        "foreground": "#c5c4c3",
+        "cursor": "#c5c4c3"
+    },
+    "colors": {
+        "color0": "#1a1310",
+        "color1": "#5A966B",
+        "color2": "#BB986E",
+        "color3": "#4C70BA",
+        "color4": "#847E93",
+        "color5": "#6A94B3",
+        "color6": "#A49E9C",
+        "color7": "#c5c4c3",
+        "color8": "#70625c",
+        "color9": "#5A966B",
+        "color10": "#BB986E",
+        "color11": "#4C70BA",
+        "color12": "#847E93",
+        "color13": "#6A94B3",
+        "color14": "#A49E9C",
+        "color15": "#c5c4c3"
+    }
+}

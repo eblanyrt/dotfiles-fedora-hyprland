@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mamat/Pictures/koyanskaya.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c1816",
+        "foreground": "#f3cae1",
+        "cursor": "#f3cae1"
+    },
+    "colors": {
+        "color0": "#0c1816",
+        "color1": "#69758A",
+        "color2": "#A26B95",
+        "color3": "#C96CA4",
+        "color4": "#72898D",
+        "color5": "#9B8BA0",
+        "color6": "#D98EB5",
+        "color7": "#f3cae1",
+        "color8": "#aa8d9d",
+        "color9": "#69758A",
+        "color10": "#A26B95",
+        "color11": "#C96CA4",
+        "color12": "#72898D",
+        "color13": "#9B8BA0",
+        "color14": "#D98EB5",
+        "color15": "#f3cae1"
+    }
+}
