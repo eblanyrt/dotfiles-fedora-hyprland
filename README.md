@@ -6,7 +6,7 @@ My personal dotfiles for Fedora with Hyprland
 * [Showcase](#showcase)
 * [Requirements](#requirements)
     * [Fonts](#fonts)
-    * [COPR Repositories](#copr_repositories)
+    * [COPR Repositories](#copr-repositories)
 * [Credits](#credits)
 
 ## Information
