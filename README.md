@@ -27,13 +27,13 @@ My personal dotfiles for Fedora with Hyprland
 |Prompt Customization| Starship|
 
 ## Showcase
-![Image](https://github.com/user-attachments/assets/b92cc287-1736-4b11-bbee-a684f59ec854)
+![b92cc287-1736-4b11-bbee-a684f59ec854](https://github.com/user-attachments/assets/b92cc287-1736-4b11-bbee-a684f59ec854)
 
-![Image](https://github.com/user-attachments/assets/5bd80bec-f305-4a8b-91dc-36111b70e6ab)
+![5bd80bec-f305-4a8b-91dc-36111b70e6ab](https://github.com/user-attachments/assets/5bd80bec-f305-4a8b-91dc-36111b70e6ab)
 
-![Image](https://github.com/user-attachments/assets/7911fb6a-a7ec-41d8-b9dd-8924d013ea74)
+![7911fb6a-a7ec-41d8-b9dd-8924d013ea74](https://github.com/user-attachments/assets/7911fb6a-a7ec-41d8-b9dd-8924d013ea74)
 
-![Image](https://github.com/user-attachments/assets/6b0a0efc-3d8f-45d9-bfdb-1a496b86b7fd)
+![6b0a0efc-3d8f-45d9-bfdb-1a496b86b7fd](https://github.com/user-attachments/assets/6b0a0efc-3d8f-45d9-bfdb-1a496b86b7fd)
 
 ## Requirements
 In order for these configurations to work seamlessly, you need to install a few things as follows:
@@ -49,9 +49,9 @@ I use Font Awesome and FiraCode Nerd Font for the emoji stuffs, such as in `Wayb
 3. Unzip it, and place all of them under `~/.local/share/fonts`
     ```
     cd ~/Downloads
-    unzip FiraCode.zip -d ~/Downloads/FiraCode/
-    cp FiraCode/* -r ~/.local/share/fonts/
-    rm LICENSE README.md
+    unzip FiraCode.zip -d ~/.local/share/fonts/
+    rm ~/.local/share/fonts/LICENSE
+    rm ~/.local/share/fonts/README.md
     ```
 ### COPR Repositories
 Using COPR Repositories when you're using Fedora can be quite helpful, especially when you're looking for a software that's not packaged natively in DNF. So here are few of the repositories that may be quite useful if you're using Hyprland in Fedora:
@@ -60,7 +60,7 @@ Using COPR Repositories when you're using Fedora can be quite helpful, especiall
     sudo dnf copr enable solopasha/hyprland
     sudo dnf update
     ```
-2. If you want to display the `#!#!#!#!#!#!` thing that shows up when I run my terminal, you can use `colorscripts` and enable it in your `.bashrc` (if you use bash). The `colorscript` itself was made by **Derek Taylor (DistroTube)**, and he put it [here](https://gitlab.com/dwt1/shell-color-scripts) on GitLab, but I use the already compiled version on COPR made by **foopsss** for convenient reason.
+2. If you want to display the `#!#!#!#!#!#!` thing that shows up when I run my terminal, you can use `colorscript` and enable it in your `.bashrc` (if you use bash). The `colorscript` itself was made by **Derek Taylor (DistroTube)**, and he put it [here](https://gitlab.com/dwt1/shell-colo33r-scripts) on GitLab, but I use the already compiled version on COPR made by **foopsss** for convenient reason.
     ```
     sudo dnf copr enable foopsss/shell-color-scripts
     sudo dnf update
