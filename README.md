@@ -27,6 +27,13 @@ My personal dotfiles for Fedora with Hyprland
 |Prompt Customization| Starship|
 
 ## Showcase
+![Image](https://github.com/user-attachments/assets/b92cc287-1736-4b11-bbee-a684f59ec854)
+
+![Image](https://github.com/user-attachments/assets/5bd80bec-f305-4a8b-91dc-36111b70e6ab)
+
+![Image](https://github.com/user-attachments/assets/7911fb6a-a7ec-41d8-b9dd-8924d013ea74)
+
+![Image](https://github.com/user-attachments/assets/6b0a0efc-3d8f-45d9-bfdb-1a496b86b7fd)
 
 ## Requirements
 In order for these configurations to work seamlessly, you need to install a few things as follows:
