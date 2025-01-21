@@ -30,7 +30,7 @@ My personal dotfiles for Fedora with Hyprland
 
 ## Showcase
 ### Video
-![showcase_video](Showcase/Video_2025-01-21_18-31-00.mp4)
+https://github.com/user-attachments/assets/b95f181e-534b-4062-aee8-742d70e53c6f
 
 ### Screenshots
 ![b92cc287-1736-4b11-bbee-a684f59ec854](https://github.com/user-attachments/assets/b92cc287-1736-4b11-bbee-a684f59ec854)
