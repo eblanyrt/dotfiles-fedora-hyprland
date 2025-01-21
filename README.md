@@ -46,7 +46,7 @@ I use Font Awesome and FiraCode Nerd Font for the emoji stuffs, such as in `Wayb
     sudo dnf install fontawesome-fonts fontawesome-6-brands-fonts fontawesome-6-free-fonts
     ```
 2. Install FiraCode Nerd Fonts [here](https://www.nerdfonts.com/font-downloads), find the **'FiraCode Nerd Font'** and download it
-3. Unzip it, and place all of them under `~/.local/share/fonts`
+3. Unzip it, and place all of them under `~/.local/share/fonts/`
     ```
     cd ~/Downloads
     unzip FiraCode.zip -d ~/.local/share/fonts/
