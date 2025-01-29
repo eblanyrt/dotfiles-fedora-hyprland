@@ -83,7 +83,7 @@ Using COPR Repositories when you're using Fedora can be quite helpful, especiall
 ### Activating Polkit
 ![efa66fac-4a4f-43c1-a9c3-311b952b3e00](https://github.com/user-attachments/assets/efa66fac-4a4f-43c1-a9c3-311b952b3e00)
 
-Polkit is Linux component that allows you to use administrative task without using "sudo" command, it's useful when you're trying to launch root permission needed applications, such as Grub Customizer, KDE Partition Manager, or if you're trying to access your NTFS (Windows) Partition in your storage. When using Hyprland, you need to use an additional software to make it works. I'll be using `polkit-kde`, `kirigami-gallery`, as well with the `polkit-devel` to make the executable polkit file exist, do as follows:
+Polkit is a Linux component that allows you to use administrative task without using `sudo` command, it's useful when you're trying to launch root permission needed applications, such as Grub Customizer, KDE Partition Manager, or if you're trying to access your NTFS (Windows) Partition in your storage. When using Hyprland, you need to use an additional software to make it works. I'll be using `polkit-kde`, `kirigami-gallery`, as well with the `polkit-devel` to make the executable polkit file exist, do as follows:
 1. Install `polkit-kde`, `polkit-devel`, and `kirigami-gallery`.
     ```
     sudo dnf install polkit-kde polkit-devel kirigami-gallery
