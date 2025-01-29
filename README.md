@@ -9,6 +9,7 @@ My personal dotfiles for Fedora with Hyprland
 * [Requirements](#requirements)
     * [Fonts](#fonts)
     * [COPR Repositories](#copr-repositories)
+    * [Activating Polkit](#activating-polkit)
 * [Credits](#credits)
 
 ## Information
@@ -78,6 +79,21 @@ Using COPR Repositories when you're using Fedora can be quite helpful, especiall
     sudo dnf update
     sudo dnf install waybar
     ```
+
+### Activating Polkit
+![efa66fac-4a4f-43c1-a9c3-311b952b3e00](https://github.com/user-attachments/assets/efa66fac-4a4f-43c1-a9c3-311b952b3e00)
+Polkit is Linux component that allows you to use administrative task without using "sudo" command, it's useful when you're trying to launch root permission needed applications, such as Grub Customizer, KDE Partition Manager, or if you're trying to access your NTFS (Windows) Partition in your storage. When using Hyprland, you need to use an additional software to make it works. I'll be using `polkit-kde`, `kirigami-gallery`, as well with the `polkit-devel` to make the executable polkit file exist, do as follows:
+1. Install `polkit-kde`, `polkit-devel`, and `kirigami-gallery`.
+    ```
+    sudo dnf install polkit-kde polkit-devel kirigami-gallery
+    ```
+2. Locate the `polkit-kde-authentication-agent-1` file. In my system, it's automatically located at `/usr/libexec/kf6/`.
+3. Execute it at `hyprland.conf` file by putting this command.
+    ```
+    # Execute polkit
+    exec-once = /usr/libexec/kf6/polkit-kde-authentication-agent-1
+    ```
+4. Restart your system.
 
 ## Credits
 - Terminal - https://github.com/kovidgoyal/kitty
